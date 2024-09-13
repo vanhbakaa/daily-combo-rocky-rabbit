@@ -1,8 +1,8 @@
 {
-  "cards": "running_fighter,meditation_fighter,appearances_on_tv_shows",
-  "expireAtForCards": 1726214400,
-  "easter": "7617f2b3720d4e6b0ce2f10a90197b0f16e7a218e91173e3931b5cd3781da09b",
-  "expireAtForEaster": 1726185600,
+  "cards": "beforeworkout_fighter,combination_training_coach,motivating_coach",
+  "expireAtForCards": 1726300800,
+  "easter": "e524c364ad0a274bd15915b398726dcf35c9ca72efd9b89529397a1a03d724fb",
+  "expireAtForEaster": 1726272000,
   "enigma": "silent,spring,donkey,swap,able,cat,apology,rose,onion,dentist,immune,filter",
   "expireAtForEnigma": 1726243200
 }
