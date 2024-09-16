@@ -1,8 +1,8 @@
 {
-  "cards": "bag_work_coach,advanced_stretching_fighter,technical_training_fighter",
-  "expireAtForCards": 1726473600,
-  "easter": "2fc2574a2bcae05cbe42606dc62b3124541296d38d789baddbe2d0eb76a06cea",
-  "expireAtForEaster": 1726444800,
+  "cards": "pad_work_coach,stretching_exercises_coach,league_9",
+  "expireAtForCards": 1726560000,
+  "easter": "1517d1ee57c778c36cc394e3abc8a8a3bc562cf5fbd7f2dd1578a0b2d4bffc2d",
+  "expireAtForEaster": 1726531200,
   "enigma": "estate,room,file,manage,enough,fatal,horror,devote,used,slight,receive,slow",
   "expireAtForEnigma": 1726502400
 }
