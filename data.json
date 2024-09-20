@@ -1,10 +1,10 @@
 {
-  "cards": "bag_work_fighter,yoga_pilates_fighter,bodyweight_fighter",
-  "expireAtForCards": 1726819200,
-  "easter": "8d320b2dea8b797cb47110d52d46b52d7a66cbd7a4d9d5215284f4b737aa2378",
-  "expireAtForEaster": 1726790400,
-  "enigma": "embrace,calm,lava,brand,resemble,board,mountain,what,photo,endless,assume,coconut",
-  "expireAtForEnigma": 1726761600
+  "cards": "snackbreak_fighter,punches_coach,competition_strategies_coach",
+  "expireAtForCards": 1726905600,
+  "easter": "25bda0485a14bfd96292cf093cfd48ae6312621b1e1226441c7aa70398e0c752",
+  "expireAtForEaster": 1726876800,
+  "enigma": "curious,small,sauce,kick,reason,dad,goat,noise,second,admit,tower"
+  "expireAtForEnigma": 1726848000
 }
 
 
